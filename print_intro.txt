@@ -1,0 +1,10 @@
+In python we have a output stmt ---> print()
+
+# syntax:
+	print(value)
+	
+# In python we can define print in 3 types
+
+	normal print ---> print()
+	f print ---> print(f'{}')
+	.format print() -----> print('{}'.format())
