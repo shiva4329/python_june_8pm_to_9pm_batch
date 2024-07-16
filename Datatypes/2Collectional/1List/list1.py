@@ -63,13 +63,15 @@ print(x[-1:1]) # returns empty list bcpz of printing from right to left that is 
 
 
 
+x = [10,20,30,40,50]
 
+print(x[-1:-3]) # returns empty bocz the printing direction is backward(but it shouls be forward direction only)
 
-
-
-
+print(x[3:0]) # upper bound should be greater than else return empty
 
 
 # note : upper bound should be greater tha lower bound
 # note : print always prints in left to right directs
+# note : if we are using same type index upper bound should be greater than
+# note : if we are using combination index(both +ve and -ve) this should consider direction(forward direction)
 
