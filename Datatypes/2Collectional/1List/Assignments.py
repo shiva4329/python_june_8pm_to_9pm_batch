@@ -28,4 +28,13 @@ print(x[-1:-4])
 print(x[0:5:2])
 
 
+#Q8 : x = [10,20,30,40] reverse the list using index
+#       o/p = [40,30,20,10]
 
+#Q9 : [100,30,25,5,0,22]  sort the list in both ascending order and descending order
+
+#Q10 : [10,50,25,30]  insert the new value '40' at 3rd position
+
+#Q11 : [10,5,11] add the value '15' at last position
+
+#Q12 : remove the 15 from the list using both index and non-index
