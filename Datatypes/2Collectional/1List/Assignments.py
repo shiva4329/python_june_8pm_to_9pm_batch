@@ -24,8 +24,7 @@ print(x[-1:-4])
 #ANS : total list will print
 
 # Q7 : what will the o/p of x[0:5:2]
-#Ans : 
-print(x[0:5:2])
+#Ans : print(x[0:5:2])
 
 
 #Q8 : x = [10,20,30,40] reverse the list using index
