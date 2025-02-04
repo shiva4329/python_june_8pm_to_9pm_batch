@@ -1,0 +1,49 @@
+# operators
+
+Types of operators in python
+
+Arithmetic operators
+Assignment operators
+Logical operators
+Comparison operators/Relation operators
+Identity operators
+Membership operators
+
+
+Arithmetic operators :
+
++ = addition
+- = substraction
+* = multiplication
+/ = division(result in decimal)
+// = floor division(result with out decimal)
+% = Modulus (result : reminder)
+** = Power operation
+
+Assignment operators:
+
+= ---> assiging value
++= -----> addition with assiging
+-+ ------> substraction with assiging
+*= -----> multiplication with assiging
+/=
+//=
+%=
+**=
+
+
+Comparison operators/Relation operators: (result in True or false)
+
+> --> greater than
+< --> less than
+>= --> greater than eqals to
+<= --> lesser than eqals to
+!= --> not quals to
+== --> equals
+
+
+Logical operators
+
+AND
+OR
+NOT

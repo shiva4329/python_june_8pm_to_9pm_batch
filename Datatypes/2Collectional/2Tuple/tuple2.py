@@ -30,17 +30,17 @@ x = (10,20,30,40,50)
 
 # x.pop()# not works with tuple
 
-# x.pop(2) # not works with tuple
+# x.pop(2) # not works with tupleworks with tuple
+
 
 # x.remove(40)# not works with tuple
 
 # x.extend((60,70))# not works with tuple
 
-# y = x.copy()# not works with tuple
-
+# y = x.copy()# not 
 print(x)
 print(x.index(40)) # returns the index of a value
 print(x.count(40)) # returns the no. of occurences of a value
 
-# x.clear()# not works with tuple
+# x.clear()# not works with tuple   
 print(x)
