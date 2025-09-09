@@ -1,0 +1,18 @@
+control struct/contron stmts : the will control the flow of execition/ flow operation
+
+loops :
+    for loop : loops the block with finite set of times
+    while loop: loops the block until statement gets false
+
+control statements/ conditions : 
+    if : checks if statement gets True, then allows
+    if - else : 
+        if : checks if statement gets True, then allows
+        else : if if-condition fails then falls into the else block
+    elif : 
+        if : checks if statement gets True, then allows
+        elif : checks if statement gets True, then allows
+
+    break : kills the loop
+    continue : skips the current iteration
+    pass : does nothing
