@@ -40,8 +40,6 @@ for i in range(len(x)):
 
 
 
-
-
 x = [10,20,30,40,50]
 for i in range(len(x)):     
     print(x[i]) 
