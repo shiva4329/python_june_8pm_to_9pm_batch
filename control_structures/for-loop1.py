@@ -55,4 +55,7 @@ for i in range(len(x)):
 # using above try for vowels in a string
 x = 'python programming'
 
+for i in x:
+    if i in 'aeiou':
+        print("vowel:",i)
 
