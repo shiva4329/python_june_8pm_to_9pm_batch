@@ -1,0 +1,54 @@
+functions in python = it performs speific set of task
+# how to define in python : "def" keyword
+
+types of fn's : 
+
+    inbuilt fn's ---> len(),id(),min(),max().....etc
+    user define fn's ---> user can create using "def" keyword
+
+
+diffent ways of fn defining:
+
+with arg
+without arg
+
+fn call ways:
+
+with parameter
+with out param
+
+
+
+
+
+
+syntax : 
+
+def (function name):
+    ................
+    ......fn block..
+    ...............
+
+
+
+# how to call function : fun_name()
+
+
+# types of parameter in python
+
+keyword arguments
+non-keyword argumnets
+
+default kaywords
+non-default
+
+
+# how to define fn with argments/parameter:
+
+def sample_fn() ---> without arg/parms
+
+sample_fn()
+
+def sample(x,y,z) ---> with args/parms
+
+sample_fn(10,20,30)
