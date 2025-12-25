@@ -71,6 +71,6 @@ other than above option for Exit
 print(info)
 
 card = '1234567'
-pin = '4329'
+pin = ''
 
 card_validation(card,pin) # main fn for ATM

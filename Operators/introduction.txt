@@ -2,12 +2,13 @@
 
 Types of operators in python
 
-Arithmetic operators
-Assignment operators
-Logical operators
-Comparison operators/Relation operators
-Identity operators
-Membership operators
+1.Arithmetic operators
+2.Assignment operators
+3.Logical operators
+4.Comparison operators/Relation operators
+5.Special
+    Identity operators
+    Membership operators
 
 
 Arithmetic operators :
@@ -47,3 +48,15 @@ Logical operators
 AND
 OR
 NOT
+
+
+# Special operators
+
+    1. Membership operators
+    2. Identity operators
+
+    # Membership operators 
+            in , not in
+
+    # Identity operators
+        is , is not
