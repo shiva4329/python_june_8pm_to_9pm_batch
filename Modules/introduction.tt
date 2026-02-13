@@ -1,0 +1,21 @@
+# Modules/packages/librarys ---> set of fuctions/methods
+
+it divided into two types ---> 1 . in-bult modules ----> numpy,pandas,time,datetime,os,sys...etc ....
+                                2.custom/user-defined -------> user can defined/create his/her own packages for his req
+
+How utilize inbuilt/custom packages into our ----> by using ---> 'import' 
+
+
+# ex :  i want to import 'OS' module our code
+#syntax : import <module_name/package_name/lib_name>
+
+import os # operation/methods : mkdir,chdir,listdir...etc
+
+
+
+
+
+what is a module has multiple methods/ want to import only one method/operation from a moduel
+ syntax : from <module> import <method/function>
+
+ from os import mkdir
