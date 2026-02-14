@@ -1,0 +1,14 @@
+# file_handling ==> creatinf files, reading the files, write the data into the files
+
+file operation modes :
+
+r =  read
+w = write(deletes the existing data and inserts with new data)(overwrites the file with newdata)
+a = append (appends the data into existing files) from the last of the existing file data
+
+"r+"	Read + Write (file must exist)
+"w+"	Write + Read (overwrites file)
+"a+"	Append + Read
+"rb"	Read binary 
+"wb"	Write binary
+"ab"	Append binary
